@@ -1,2 +1,2 @@
-# Cloud-Based-Data-Pipeline
-Built a robust end-to-end data pipeline using Apache Airflow on AWS EC2 to extract YouTube channel data via API, store raw files in AWS S3, process data using Python, and load it into PostgreSQL. Integrated BigQuery for advanced analytics and dashboarding, showcasing cross-cloud architecture and orchestration.
+# Real-Time E-Commerce Product Demand Forecasting Pipeline
+Designed a robust big data pipeline for forecasting e-commerce product demand using PySpark and Prophet. The pipeline ingests data from APIs, processes and aggregates it using PySpark, and applies time-series forecasting. Integrated with Apache Airflow for orchestration and AWS S3 for cloud storage. The solution emphasizes scalable data engineering, distributed computing, and machine learning, making it cloud-ready and extensible. Ideal for real-world big data applications in retail analytics and demand prediction.
